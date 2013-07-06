@@ -1,4 +1,4 @@
-#README  
+# README #
 
 This directory contains a listing of monthly notes for Ian Joynes.  
 Currently, these notebooks are written in markdown.  However, they may 
