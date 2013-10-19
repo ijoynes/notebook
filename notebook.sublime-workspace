@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifeif	if … elseif … end"
+			],
+			[
+				"f",
+				"for	for I = START [: INC ]: END ... end"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"f_all",
+				"f_all_min"
+			],
+			[
+				"cdf",
+				"cdf_threshold"
+			],
+			[
+				"percen",
+				"percentile_field"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Sou",
+				"Source_"
+			],
+			[
+				"nS",
+				"nSources"
+			],
+			[
+				"perc",
+				"percentile_field"
+			],
+			[
+				"e",
+				"e	exp"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"sig",
+				"signal_o"
+			],
+			[
+				"Souc",
+				"Source_"
+			],
+			[
+				"Obse",
+				"Observation_"
+			],
+			[
+				"Con",
+				"Concentration_Initial_Guess"
+			],
+			[
+				"C",
+				"CONNECTIVITYSHAREZONE"
+			],
+			[
+				"nt",
+				"nt"
+			],
+			[
+				"sou",
+				"source_xy"
+			],
+			[
+				"re",
+				"receptor_xy"
+			],
+			[
+				"g",
+				"g_norm"
+			],
+			[
+				"src",
+				"srcPath"
+			],
+			[
+				"reg",
+				"regularization_study_thresh_hold"
+			],
+			[
+				"noise",
+				"noisePath"
+			],
+			[
+				"reg_par",
+				"reg_par"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"iter",
+				"iter"
+			],
+			[
+				"fp",
+				"fprintf"
+			],
+			[
+				"R",
+				"regularization_study"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "notebook_2013-10.md",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"line_ending": "Windows",
+				"name": "# Notebook 2013-10"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ijoynes/Dropbox/notebook/# Notebook 2013-10.mdown",
+		"/C/Users/ijoynes/Documents/GitHub/inv_ms_adm/post_process_convergence_slope_single_source.m",
+		"/S/Matlab/readme_matlab_install.txt",
+		"/C/Program Files/MATLAB/R2010b/licenses/network.lic",
+		"/S/Matlab/networkresearch.lic",
+		"/C/Program Files/MATLAB/R2010b/licenses/networkresearch.lic",
+		"/C/Program Files/MATLAB/R2010b/license.txt",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/matlab_snippets/plus_plus.sublime-snippet",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/matlab_snippets/plus_equal.sublime-snippet",
+		"/J/ijoynes/thesis/chapter_5_comments.txt",
+		"/C/Users/ijoynes/Dropbox/demo.m",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/matlab_snippets/for.sublime-snippet",
+		"/E/ijoynes/thesis_data_backup/Multi-Source_Labels.txt",
+		"/C/Users/ijoynes/Dropbox/Apps/Drafts/# Fall Clothes (18).txt",
+		"/S/tecplot/tecplot360_2011/readme.txt",
+		"/E/ijoynes/thesis_data_backup/run_060/run_060.log",
+		"/E/ijoynes/thesis_data_backup/run_029/run_029.log",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_028.log",
+		"/C/Users/ijoynes/Dropbox/blog/style.css",
+		"/C/Users/ijoynes/Dropbox/blog/tea.htm",
+		"/E/ijoynes/thesis_data_backup/single_source_filter.lay",
+		"/C/Users/ijoynes/Dropbox/music/Techno.txt",
+		"/E/ijoynes/thesis_data_backup/multi_source_filtered_emission_rate_1.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_filtered_emission_rate.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_total_emission_rate.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_coefficient_of_determination.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_objective_function_temp.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_projected_gradient.lay",
+		"/E/ijoynes/thesis_data_backup/multi_source_gradient.lay",
+		"/C/Users/ijoynes/Dropbox/thesis/tecplot_labels.txt",
+		"/C/Users/ijoynes/Application Data/SSH/temp/resume (3).tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/cover_letter_poff.tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/cover_letter_strati (1).tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/cover_letter_strati (2).tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/resume (2).tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/resume (1).tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/cover_letter_strati.tex",
+		"/E/ijoynes/thesis_data_backup/README.txt",
+		"/C/Users/ijoynes/Dropbox/recipes/Spinach & Feta Rice Casserole.txt",
+		"/C/Users/ijoynes/Dropbox/recipes/Roasted Bosc Pears with Pomegranate Glaze.txt",
+		"/C/Users/ijoynes/Dropbox/BalzacSSFlat_775_0p2_n5_001.out",
+		"/C/Users/ijoynes/Downloads/BalzacSSFlat_775_0p2_n5_001.out",
+		"/C/Users/ijoynes/Dropbox/BalzacTransFlat_775_0p2_n5_001.out",
+		"/C/Users/ijoynes/Documents/GitHub/inv_ms_adm/README.md",
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-07.md",
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-07.mkd",
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-04",
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-07.txt",
+		"/C/Users/ijoynes/Dropbox/notebook_2013-07.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/hyphenated_words.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/presentation_script.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/thesis_presentation_outline-2013-03-04.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/outline_ch_3-2013-05-01.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/outline_ch_3-2013-04-26.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/outline_ch_3-2013-04-24.txt",
+		"/C/Users/ijoynes/Documents/MATLAB/regularization_parameter_source_iteration.m",
+		"/C/Users/ijoynes/Desktop/S-CO2/README.md",
+		"/C/Users/ijoynes/Downloads/joynes_ch_6.tex",
+		"/C/Users/ijoynes/Dropbox/thesis/ref.bib",
+		"/C/Users/ijoynes/Documents/run_063/Source/run_063.log",
+		"/C/Users/ijoynes/Documents/MATLAB/darcy_optimization.m",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_070.log",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_061.log",
+		"/C/Users/ijoynes/Downloads/S-CO2.rgp",
+		"/C/Users/ijoynes/Dropbox/thesis/list_of_figures_2013-02-22.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/thesis_outline_2013-02-27.txt",
+		"/C/Users/ijoynes/Dropbox/Public/How to use the Public folder.txt",
+		"/C/Users/ijoynes/Documents/MATLAB/Ben_model_tune.m",
+		"/C/Users/ijoynes/Dropbox/thesis/thesis_outline_2013-01-28.txt",
+		"/C/Users/ijoynes/Downloads/list_of_figures_2013-01-29.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/list_of_figures_2013-01-29.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/thesis_ch_6_2013-01-28.txt",
+		"/C/Users/ijoynes/Dropbox/thesis/joynes_ch_1_01-ij.txt",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ijoynes/Dropbox/thesis/joynes_ch_1.tex",
+		"/C/Users/ijoynes/Dropbox/thesis/joynes_thesis.tex",
+		"/C/Users/ijoynes/Dropbox/thesis/abstract.tex",
+		"/C/Users/ijoynes/Dropbox/thesis/chapter_4.tex",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/en_CA_README.txt",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/en_CA.aff",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/en_CA.dic",
+		"/C/Users/ijoynes/AppData/Roaming/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+		"/C/Users/ijoynes/Downloads/English (Canadian).dic",
+		"/C/Users/ijoynes/Dropbox/thesis/acronyms.tex",
+		"/C/Users/ijoynes/Dropbox/thesis/symbols.tex",
+		"/C/Users/ijoynes/Dropbox/song_list.txt",
+		"/C/Users/ijoynes/Dropbox/fitness_goals",
+		"/C/Users/ijoynes/Dropbox/thesis/joynes_ch_2_2012_08_10-ij.docx",
+		"/C/Users/ijoynes/Dropbox/thesis/chapter_3.tex",
+		"/C/Users/ijoynes/Documents/missing color pages for cliff's thesis",
+		"/C/Users/ijoynes/Documents/run_031/regularization.dat",
+		"/C/Users/ijoynes/Documents/thesis/cuthesis.sty",
+		"/C/Users/ijoynes/Dropbox/thesis/joynes_ch_2.tex",
+		"/C/Users/ijoynes/Documents/movies_for_mj/percentile.dat",
+		"/C/Users/ijoynes/Application Data/SSH/temp/ref.bib",
+		"/C/Users/ijoynes/Documents/MATLAB/placeSensors.m",
+		"/C/Users/ijoynes/Documents/MATLAB/placeSources.m",
+		"/C/Users/ijoynes/Documents/MATLAB/adjpde.m",
+		"/C/Users/ijoynes/Documents/run_022/run_022.dat",
+		"/C/Users/ijoynes/Documents/thesis/chapter_3.tex",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/objective.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/CostFncGrad2.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/SolveConcentrationTransport.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/FindLeakSource.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/readControls.m",
+		"/C/Users/ijoynes/Documents/resume/aecl_masih_2/cover_letter.tex",
+		"/C/Users/ijoynes/Documents/resume/aecl_masih_2/resume.tex",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/PostProcessResults.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/PostProcessObservations.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/post_process_source.m",
+		"/C/Users/ijoynes/Application Data/SSH/temp/source_post.sh",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/process_options.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/test_callback.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/CalcMeasurementNoise.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/lbfgs_options.m",
+		"/C/Users/ijoynes/Documents/inverse_dispersion_model/run_obj_fun_fixed_1E6.sh",
+		"/C/Users/ijoynes/Documents/regularization_study/regularization_study.dat",
+		"/C/Users/ijoynes/Documents/thesis/joynes_ch_2.tex",
+		"/C/Users/ijoynes/Documents/thesis/joynes_ch_1.tex",
+		"/C/Users/ijoynes/Documents/thesis/chapter_4.tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/joynes_ch_2.tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/joynes_thesis.tex",
+		"/C/Users/ijoynes/Application Data/SSH/temp/objective.m",
+		"/C/Users/ijoynes/Application Data/SSH/temp/FindLeakSource.m",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_015.sh",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_017.sh",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_019.sh",
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_018.sh"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cdf",
+			"cfd",
+			"t)",
+			"theta",
+			"$!REDRAW",
+			"$!REDRAW ",
+			"TITLE",
+			"= 5",
+			"$!REDRAW",
+			"mass",
+			"AR",
+			"whitespace",
+			"theta",
+			"trajector",
+			"starting",
+			"boundary",
+			"dispersion",
+			"sensorIndex",
+			"place",
+			"thresh",
+			"Sensor",
+			"order",
+			"mathrmn",
+			"traje",
+			"ill",
+			"r_vec",
+			"indent",
+			"s2m",
+			"operDir",
+			"srcDir",
+			"exist",
+			"o(sensorIndex)",
+			"run_017",
+			");\n",
+			"run_017",
+			"8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "notebook_2013-10.md",
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								893,
+								893
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Notebook 2013-10",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
