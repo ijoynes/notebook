@@ -2,8 +2,8 @@
 
 This is notebook comprises notes for October 2013.
 
-- [Tasks](##Tasks)
-- [18 (Friday)](##18 October 2013 (Friday))
+- [Tasks](##tasks)
+- [18 (Friday)](##18-october-2013-(friday))
 
 ## Tasks
 
@@ -20,17 +20,18 @@ This is notebook comprises notes for October 2013.
       - Scat Size = 5%
       - Line Thick = 0.8%
       - May need to move source labels
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 25
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 50
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 100
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 200
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 25
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 50
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 100
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 200
+      - [ ] Single Source, Noise = 0, Beta = 0, Iter = 25
+      - [ ] Single Source, Noise = 0, Beta = 0, Iter = 50
+      - [ ] Single Source, Noise = 0, Beta = 0, Iter = 100
+      - [ ] Single Source, Noise = 0, Beta = 0, Iter = 200
+      - [ ] Single Source, Noise = 10, Beta = 0, Iter = 25
+      - [ ] Single Source, Noise = 10, Beta = 0, Iter = 50
+      - [ ] Single Source, Noise = 10, Beta = 0, Iter = 100
+      - [ ] Single Source, Noise = 10, Beta = 0, Iter = 200
 
 - [ ] Change the "Ideal" label in the legend.
       - Approx. Min. ?
+      - Est. Min. ?
 
 - [ ] Move normalizing values to underneath the legend.
 
