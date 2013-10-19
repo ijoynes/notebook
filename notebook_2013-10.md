@@ -2,8 +2,8 @@
 
 This is notebook comprises notes for October 2013.
 
-- [Tasks](##tasks)
-- [18 (Friday)](##18-october-2013-(friday))
+- [Tasks](#tasks)
+- [18 (Friday)](#18-october-2013-friday)
 
 ## Tasks
 
