@@ -1,9 +1,6 @@
 # README #
 
-This directory contains a listing of my monthly notes.  
-Currently, these notebooks are written in markdown.  However, they may 
-be converted to latex to accommodate mathematical formulae.  The 
-expected benefits of this method of note taking are:
+This directory contains a listing of my monthly notes. Currently, these notebooks are written in markdown.  However, they may be converted to latex to accommodate mathematical formulae.  The expected benefits of this method of note taking are:
 
 - Searchable record  
 - Accessible from any location  
