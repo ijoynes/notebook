@@ -23,31 +23,32 @@ From (2013-09-26)
 
 The new suggested emission source label locations are shown as follows
 
-Plot Settings
+### Plot Settings
 
-Set: Text Box = Filled
-Set: Position Coordinate System = Grid
-Set: Source Symbol Size = 5%
-Set: Source Symbol Thickness = 0.4%
-Set: Clipping = Viewport
-
-
-Full Domain Emission Source Label Locations
-
-Label   x [m]   y [m]  Text Anchor Location
-A       705     585       Headline-Left
-B       660     735       Headline-Left
-C       425     575       Headline-Left
-D       475     825       Baseline-Right
-E       825     775       Headline-Left
-F       615     825       Headline-Right
-G       675     925       Baseline-Right
-H       495     725       Headline-Right
-I       585     615       Headline-Left
-J       785     635       Headline-Left
+- Set: Text Box = Filled
+- Set: Position Coordinate System = Grid
+- Set: Source Symbol Size = 5%
+- Set: Source Symbol Thickness = 0.4%
+- Set: Clipping = Viewport
 
 
-Zoom #1 Emission Source Label Locations
+### Full Domain Emission Source Label Locations
+
+| Label | x [m] | y [m] | Text Anchor Location |
+|------:|:-----:|:-----:|:---------------------|
+|   A   |  705  |  585  |    Headline-Left     |
+|   B   |  660  |  735  |    Headline-Left     |
+|   C   |  425  |  575  |    Headline-Left     |
+|   D   |  475  |  825  |    Baseline-Right    |
+|   E   |  825  |  775  |    Headline-Left     |
+|   F   |  615  |  825  |    Headline-Right    |
+|   G   |  675  |  925  |    Baseline-Right    |
+|   H   |  495  |  725  |    Headline-Right    |
+|   I   |  585  |  615  |    Headline-Left     |
+|   J   |  785  |  635  |    Headline-Left     |
+
+
+### Zoom #1 Emission Source Label Locations
 
 Label   x [m]   y [m]  Text Anchor Location
 A       655     600       Headline-Left
