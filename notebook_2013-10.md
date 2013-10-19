@@ -2,6 +2,41 @@
 
 This is notebook comprises notes for October 2013.
 
+- [Tasks](##Tasks)
+- [18 (Friday)](##18 October 2013 (Friday))
+
+## Tasks
+
+### Items to address in all Chapters
+
+- [ ] Remove all '.' from figure and table labels.
+- [ ] Make sure Chapter is capitalized in all cross references.
+
+
+### Items to address in Chapter 5
+
+- [ ] Remake emission source plots with larger source location symbols.
+      - Address after we submit
+      - Scat Size = 5%
+      - Line Thick = 0.8%
+      - May need to move source labels
+      [ ] Single Source, Noise = 0, Beta = 0, Iter = 25
+      [ ] Single Source, Noise = 0, Beta = 0, Iter = 50
+      [ ] Single Source, Noise = 0, Beta = 0, Iter = 100
+      [ ] Single Source, Noise = 0, Beta = 0, Iter = 200
+      [ ] Single Source, Noise = 10, Beta = 0, Iter = 25
+      [ ] Single Source, Noise = 10, Beta = 0, Iter = 50
+      [ ] Single Source, Noise = 10, Beta = 0, Iter = 100
+      [ ] Single Source, Noise = 10, Beta = 0, Iter = 200
+
+- [ ] Change the "Ideal" label in the legend.
+      - Approx. Min. ?
+
+- [ ] Move normalizing values to underneath the legend.
+
+- [x] Update multi-source filtered emission source figures.
+
+
 ## 18 October 2013 (Friday)
 
 Within Tecplot, the emission source labels for the multi-source studies need to move closer to source locations for zoomed in views and further away for views of the full domain.  This table shows the is the previous source label locations
@@ -70,36 +105,6 @@ The new suggested emission source label locations are shown as follows
 
 Unable to access network drives.  No access to j_group or Tecplot licence.
 
-
-Items to address in all Chapters
---------------------------------
-- [ ] Remove all '.' from figure and table labels.
-- [ ] Make sure Chapter is capitalized in all cross references.
-
-
-Items to address in Chapter 5
------------------------------
-
-  [ ] Remake emission source plots with larger source location symbols.
-      - Address after we submit
-      - Scat Size = 5%
-      - Line Thick = 0.8%
-      - May need to move source labels
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 25
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 50
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 100
-      [ ] Single Source, Noise = 0, Beta = 0, Iter = 200
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 25
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 50
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 100
-      [ ] Single Source, Noise = 10, Beta = 0, Iter = 200
-
-  [ ] Change the "Ideal" label in the legend.
-      - Approx. Min. ?
-
-  [ ] Move normalizing values to underneath the legend.
-
-  [x] Update multi-source filtered emission source figures.
 
 ---
 
