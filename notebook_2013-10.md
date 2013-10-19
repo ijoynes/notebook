@@ -7,17 +7,18 @@ This is notebook comprises notes for October 2013.
 Within Tecplot, the emission source labels for the multi-source studies need to move closer to source locations for zoomed in views and further away for views of the full domain.  This table shows the is the previous source label locations
 
 From (2013-09-26)
-Label   x [m]   y [m]
-A       683     591
-B       713     757
-C       412     580
-D       513     783
-E       811     780
-F       577     727
-G       673     904
-H       502     687
-I       568     626
-J       736     668
+ Label | x [m] | y [m]
+------:|:-----:|------
+   A   |  683  |  591
+   B   |  713  |  757
+   C   |  412  |  580
+   D   |  513  |  783
+   E   |  811  |  780
+   F   |  577  |  727
+   G   |  673  |  904
+   H   |  502  |  687
+   I   |  568  |  626
+   J   |  736  |  668
 
 The new suggested emission source label locations are shown as follows
 
