@@ -6,7 +6,7 @@ This is notebook comprises notes for October 2013.
 
 Within Tecplot, the emission source labels for the multi-source studies need to move closer to source locations for zoomed in views and further away for views of the full domain.  This table shows the is the previous source label locations
 
-From (2013-09-26)
+### From (2013-09-26)
 
 | Label | x [m] | y [m] |
 |------:|:-----:|:-----:|
@@ -50,19 +50,21 @@ The new suggested emission source label locations are shown as follows
 
 ### Zoom #1 Emission Source Label Locations
 
-Label   x [m]   y [m]  Text Anchor Location
-A       655     600       Headline-Left
-C       410     620       Headline-Left
-D       495     810       Baseline-Right
-H       520     700       Headline-Right
-I       570     630       Headline-Left
+| Label | x [m] | y [m] | Text Anchor Location |
+|------:|:-----:|:-----:|:---------------------|
+|   A   |  655  |  600  |    Headline-Left     |
+|   C   |  410  |  620  |    Headline-Left     |
+|   D   |  495  |  810  |    Baseline-Right    |
+|   H   |  520  |  700  |    Headline-Right    |
+|   I   |  570  |  630  |    Headline-Left     |
 
 
-Zoom #2 Emission Source Label Locations
+### Zoom #2 Emission Source Label Locations
 
-Label   x [m]   y [m]  Text Anchor Location
-H       526     685       Headline-Right
-I       563     638       Headline-Left
+| Label | x [m] | y [m] | Text Anchor Location |
+|------:|:-----:|:-----:|:---------------------|
+|   H   |  526  |  685  |    Headline-Right    |
+|   I   |  563  |  638  |    Headline-Left     |
 
 -------------------------------------------------------------------------------
 
@@ -71,9 +73,8 @@ Unable to access network drives.  No access to j_group or Tecplot licence.
 
 Items to address in all Chapters
 --------------------------------
-
-  [ ] Remove all '.' from figure and table labels.
-  [ ] Make sure Chapter is capitalized in all cross references.
+- [ ] Remove all '.' from figure and table labels.
+- [ ] Make sure Chapter is capitalized in all cross references.
 
 
 Items to address in Chapter 5
