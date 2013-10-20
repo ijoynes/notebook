@@ -8,7 +8,7 @@ This is notebook comprises my notes for October 2013.
   - [Items to address in all Chapters](#items-to-address-in-all-chapters)
   - [Items to address in Chapter 5](#items-to-address-in-chapter-5)
 - [18 (Friday)](#18-october-2013-friday)
-- [18 (Saturday)](#19-october-2013-saturday)
+- [19 (Saturday)](#19-october-2013-saturday)
 
 
 ## Tasks
