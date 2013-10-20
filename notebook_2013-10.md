@@ -1,14 +1,14 @@
 # Notebook 2013-10
 
 This is notebook comprises notes for October 2013.
-
+<!--
 - [Tasks](#tasks)
   - [Items to address in all Chapters](#items-to-address-in-all-chapters)
   - [Items to address in Chapter 5](#items-to-address-in-chapter-5)
-- [18 (Friday)](#18-october-2013-friday)
+- [18 (Friday)](#18-october-2013-friday)-->
 
 <!-- MarkdownTOC -->
-- [Tasks][#task]
+- [Tasks][task]
   - [Items to address in all Chapters][all-chapters]
   - [Items to address in Chapter 5][chapter-5]
 - [18 October 2013 (Friday)][18]
@@ -20,7 +20,7 @@ This is notebook comprises notes for October 2013.
 <!-- /MarkdownTOC -->
 
 
-## Tasks[#task]
+## Tasks[task]
 
 ### Items to address in all Chapters[all-chapters]
 
