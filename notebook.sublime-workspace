@@ -123,24 +123,19 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "notebook_2013-10.md",
-			"settings":
-			{
-				"buffer_size": 1259,
-				"line_ending": "Windows",
-				"name": "# Notebook 2013-10"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -157,6 +152,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-10.txt",
+		"/C/Users/ijoynes/Dropbox/notebook/notebook_2013-10.md",
 		"/C/Users/ijoynes/Dropbox/notebook/# Notebook 2013-10.mdown",
 		"/C/Users/ijoynes/Documents/GitHub/inv_ms_adm/post_process_convergence_slope_single_source.m",
 		"/S/Matlab/readme_matlab_install.txt",
@@ -282,9 +279,7 @@
 		"/C/Users/ijoynes/Application Data/SSH/temp/objective.m",
 		"/C/Users/ijoynes/Application Data/SSH/temp/FindLeakSource.m",
 		"/C/Users/ijoynes/Application Data/SSH/temp/run_015.sh",
-		"/C/Users/ijoynes/Application Data/SSH/temp/run_017.sh",
-		"/C/Users/ijoynes/Application Data/SSH/temp/run_019.sh",
-		"/C/Users/ijoynes/Application Data/SSH/temp/run_018.sh"
+		"/C/Users/ijoynes/Application Data/SSH/temp/run_017.sh"
 	],
 	"find":
 	{
@@ -303,6 +298,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Noise = 0",
 			"cdf",
 			"cfd",
 			"t)",
@@ -356,37 +352,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "notebook_2013-10.md",
-					"settings":
-					{
-						"buffer_size": 1259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								893,
-								893
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# Notebook 2013-10",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"wrap_width": 80
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
