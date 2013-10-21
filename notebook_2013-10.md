@@ -7,6 +7,7 @@ This is notebook comprises my notes for October 2013.
 - [Tasks](#tasks)
   - [Items to address in all Chapters](#items-to-address-in-all-chapters)
   - [Items to address in Chapter 5](#items-to-address-in-chapter-5)
+  - [Appendices](#appendices)
 - [18 (Friday)](#18-october-2013-friday)
 - [19 (Saturday)](#19-october-2013-saturday)
 
@@ -134,6 +135,14 @@ This is notebook comprises my notes for October 2013.
       - [ ] Iteration, MSCONV1 (linear) + MSCONV2 (log)
       - [ ] Regularization, MSREG1 (linear) + MSREG2 (log)
 
+### Appendices
+
+- [ ] Appendix MSCONV
+      - Combine the linear and log scale plots into a single appendix with section labels
+- [ ] Appendix MSREG
+      - Combine the linear and log scale plots into a single appendix with section labels
+
+
 ## 18 October 2013 (Friday)
 
 Within Tecplot, the emission source labels for the multi-source studies need to move closer to source locations for zoomed in views and further away for views of the full domain.  This table shows the is the previous source label locations
@@ -206,3 +215,38 @@ The new suggested emission source label locations are shown as follows
 - Added tasks from paper notebook to task list
 - Combined the multi-source regularization appendices into a single properly formated appendix
 - Worked on revision comments of chapter 5
+
+## 20 October 2013 (Sunday)
+- Calculated the error on the source location
+
+### NO OBSERVATIONAL NOISE (location error [m])
+--------------------------------------------------
+| S |  B = 0 |  B = 1 | B = 10 | B =100 | B=1000 |
+|:-:|:------:|:------:|:------:|:------:|:------:|
+| A |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+| B |   0.00 |   0.00 |   0.00 |   0.00 |  21.95 |
+| C |   9.82 |   9.82 |   9.82 |  14.70 |  14.70 |
+| D |   4.50 |   4.50 |   4.49 |   4.49 |   4.49 |
+| E |   0.00 |   0.00 |   0.00 |   4.20 |   4.20 |
+| F |   0.00 |   0.00 |   0.00 |   3.79 |   0.00 |
+| G |   0.00 |   0.00 |   0.00 |   8.40 |  15.88 |
+| H |   3.93 |   3.93 |   3.93 |   6.35 |   6.35 |
+| I |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+| J |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+--------------------------------------------------
+
+### 10% OBSERVATIONAL NOISE (location error [m])
+--------------------------------------------------
+| S |  B = 0 |  B = 1 | B = 10 |  B=100 | B=1000 |
+|:-:|:------:|:------:|:------:|:------:|:------:|
+| A |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+| B |   0.00 |   0.00 |   0.00 |   0.00 |  21.95 |
+| C |   9.82 |   9.82 |   9.82 |  14.70 |  14.70 |
+| D |   4.50 |   4.50 |   4.49 |   4.49 |   4.49 |
+| E |   0.00 |   0.00 |   0.00 |   7.20 |   4.20 |
+| F |   0.00 |   0.00 |   0.00 |   3.79 |   0.00 |
+| G |   0.00 |   0.00 |   0.00 |   8.40 |  15.88 |
+| H |   3.93 |   3.93 |   3.93 |   6.35 |   6.35 |
+| I |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+| J |   0.00 |   0.00 |   0.00 |   0.00 |   0.00 |
+--------------------------------------------------

@@ -127,7 +127,7 @@
 			"file": "notebook_2013-10.md",
 			"settings":
 			{
-				"buffer_size": 8300,
+				"buffer_size": 10173,
 				"line_ending": "Windows"
 			}
 		}
@@ -310,6 +310,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"= ",
+			"B",
+			"r_",
 			"toward	",
 			"Single",
 			"ce,",
@@ -376,25 +379,25 @@
 					"file": "notebook_2013-10.md",
 					"settings":
 					{
-						"buffer_size": 8300,
+						"buffer_size": 10173,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								303,
-								303
+								9834,
+								9834
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 6,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1802.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
