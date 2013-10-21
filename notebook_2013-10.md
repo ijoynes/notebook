@@ -276,7 +276,7 @@ The new suggested emission source label locations are shown as follows
 ------------------------------------------------------------------------------
 
 
-### Multi-Source, NO OBSERVATIONAL NOISE (half max area [m^2])
+### Multi-Source, NO OBSERVATIONAL NOISE (half-max area [m^2])
 ------------------------------------------------------------
 | S |   B = 0  |   B = 1  |  B = 10  |  B = 100 | B = 1000 |
 |:-:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -292,7 +292,7 @@ The new suggested emission source label locations are shown as follows
 | J |      641 |      641 |      862 |     2266 |     4219 |
 ------------------------------------------------------------
 
-### Multi-Source, 10% OBSERVATIONAL NOISE (half max area [m^2])
+### Multi-Source, 10% OBSERVATIONAL NOISE (half-max area [m^2])
 ------------------------------------------------------------
 | S |   B = 0  |   B = 1  |  B = 10  |  B = 100 | B = 1000 |
 |:-:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -307,3 +307,5 @@ The new suggested emission source label locations are shown as follows
 | I |      377 |      377 |      377 |      626 |     1531 |
 | J |      641 |      641 |      862 |     2268 |     4218 |
 ------------------------------------------------------------
+
+- Removed gradient sections to an appendix, since it makes little sense to compare gradients between test cases.  They are only meaningful to compare iterations within a single test case.
