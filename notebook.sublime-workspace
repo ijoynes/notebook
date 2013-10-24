@@ -135,7 +135,7 @@
 			"file": "/C/Users/ijoynes/Documents/GitHub/inv_ms_adm/post_process_source_location_error.m",
 			"settings":
 			{
-				"buffer_size": 5302,
+				"buffer_size": 6256,
 				"line_ending": "Windows",
 				"name": "clc"
 			}
@@ -406,7 +406,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4246.0,
+						"translation.y": 3616.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -416,15 +416,15 @@
 					"file": "/C/Users/ijoynes/Documents/GitHub/inv_ms_adm/post_process_source_location_error.m",
 					"settings":
 					{
-						"buffer_size": 5302,
+						"buffer_size": 6256,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5302,
-								5302
+								0,
+								0
 							]
 						],
 						"settings":

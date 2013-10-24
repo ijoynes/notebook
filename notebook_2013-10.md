@@ -309,3 +309,9 @@ The new suggested emission source label locations are shown as follows
 ------------------------------------------------------------
 
 - Removed gradient sections to an appendix, since it makes little sense to compare gradients between test cases.  They are only meaningful to compare iterations within a single test case.
+
+
+## 23 October 2013 (Wednesday)
+
+- Accepted all revisions to chapter 4.
+- Started assembling all sections into a single document.
